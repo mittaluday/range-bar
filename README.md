@@ -2,4 +2,4 @@ RangeBar
 =======
 
 This is a fork of edmodo/range-bar.
-Adding enhancements for custom behaviour
+Keeping the discrete ticks behaviour, and fixing the position of left thumb to origin.
